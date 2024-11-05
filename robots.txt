@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyezeama.github.io/ZIR/sitemap_index.txt
+Sitemap: https://uyezeama.github.io/cAD/sitemap_index.txt
+Sitemap: https://uyezeama.github.io/ePk/sitemap_index.txt
+Sitemap: https://uyezeama.github.io/trG/sitemap_index.txt
